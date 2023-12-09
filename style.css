@@ -1,0 +1,70 @@
+.head {
+    background-color: #CBCDA9;
+}
+
+.navbar {
+    background-color: #FFFFE9;
+    padding-left: 25%;
+    text-align: center;
+}
+
+.btn {
+    color: black;
+    padding: 15px 100px;
+    text-decoration: none;
+}
+
+.form_div {
+    display: flex;
+    background-color: black;
+    color: aliceblue;
+    height: 30%;
+    width: 50;
+}
+
+.img {
+    height: 50%;
+    margin-left: 45%;
+}
+
+.bn-img {
+    opacity: .9;
+    width: 100%;
+}
+
+.text-container {
+    position: absolute;
+    color: rgb(255, 255, 255);
+    left: 18rem;
+    top: 2rem;
+    background-color: rgb(41, 41, 41, 0.8);
+    padding: 0 1rem;
+    font-size: 100px;
+    text-align: center;
+}
+
+.text-contain {
+    position: absolute;
+    color: rgb(255, 255, 255);
+    left: 18rem;
+    top: 2rem;
+    background-color: rgb(41, 41, 41, 0.8);
+    padding: 0 1rem;
+    margin-top: 10%;
+}
+
+.icon-img {
+    border-radius: 10px;
+    padding: 50px;
+    margin-right: 100px;
+    text-align: center;
+}
+
+.icon {
+    display: flex;
+}
+
+.text {
+    text-align: center;
+    padding: 50%;
+}
